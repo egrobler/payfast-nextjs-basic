@@ -1,3 +1,5 @@
+import React from "react";
+
 const PayfastOnsiteButton = ({
     button_label,
     item_name,

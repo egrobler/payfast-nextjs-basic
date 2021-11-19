@@ -1,6 +1,6 @@
 {
   "name": "payfast-nextjs-basic",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Basic Payfast Integration (NextJS/React/Javascript)",
   "main": "index.js",
   "repository": {
@@ -11,5 +11,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ettiene Grobler",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
 }
