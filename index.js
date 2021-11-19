@@ -47,4 +47,4 @@ const PayfastOnsiteButton = ({
     );
 };
 
-export default PayfastButton;
+export default PayfastOnsiteButton;

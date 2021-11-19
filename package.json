@@ -1,6 +1,6 @@
 {
   "name": "payfast-nextjs-basic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Basic Payfast Integration (NextJS/React/Javascript)",
   "main": "index.js",
   "repository": {
